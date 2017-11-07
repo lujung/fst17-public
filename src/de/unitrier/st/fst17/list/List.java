@@ -1,5 +1,5 @@
 package de.unitrier.st.fst17.list;
-
+// GitHub user: lujung
 /**
  * Doppelt verkettete Liste.
  */
